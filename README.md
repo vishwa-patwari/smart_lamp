@@ -10,8 +10,8 @@ This project demonstrates how to control an **LED** connected to an **ESP32** us
 
 ## 🚀 Features
 
-* LED turns **ON** when it is dark **and** no object is detected by the IR sensor.
-* LED turns **OFF** when there is enough light **or** an object is detected.
+* LED turns **ON** when it is dark **and** object is detected by the IR sensor.
+* LED turns **OFF** when there is enough light **or** an object is not detected.
 * Uses **ESP32 GPIO pins** to interface with LDR, IR sensor, and LED.
 * Serial Monitor shows real-time LDR sensor readings.
 
