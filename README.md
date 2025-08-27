@@ -1,7 +1,3 @@
-Here’s the GitHub README for your code in the **same format and style** as the example you gave 👇
-
----
-
 # ESP32 LDR & IR Based LED Control
 
 This project demonstrates how to control an **LED** connected to an **ESP32** using **LDR (Light Dependent Resistor)** and **IR Sensor**. The LED automatically turns **ON/OFF** based on the surrounding light and object detection.
